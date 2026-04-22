@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("Adição e Multiplicação de Quatro Números Inteiros");
+console.log("--- Adição e Multiplicação de Quatro Números Inteiros ---");
 
 let A = Number(prompt("Insira um número inteiro: "));
 let B = Number(prompt("Insira um número inteiro: "));
