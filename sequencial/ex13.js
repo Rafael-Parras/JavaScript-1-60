@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-console.log("--- Soma dos Quadrados ---");
+console.log("--- Cálculo da Soma dos Quadrados de Três Números ---");
 
 let numeros = prompt("Insira 3 números separados por espaço: ")
   .split(" ")
