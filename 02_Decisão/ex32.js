@@ -8,7 +8,7 @@ let N3 = Number(prompt("Insira um valor: "));
 
 if(N1 >= N2 && N1 >= N3){
 	if(N2 >= N3){
-	console.log(`A ordem é: ${N1}, ${N3}, ${N2}`);
+	console.log(`A ordem é: ${N1}, ${N2}, ${N3}`);
 	}else {
 	console.log(`${N2}, ${N3}, ${N1}`);
 }} else if (N2 >= N1 && N2 >= N3) {
